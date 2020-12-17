@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\course\計圖學\hw3\hw3\hw3\include\FreeImage.h(1,1): warning C4819: 檔案含有無法在目前字碼頁 (950) 中表示的字元。請以 Unicode 格式儲存檔案以防止資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(41,48): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(41,33): warning C4244: '引數': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(135,18): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(136,18): warning C4244: '=': 將 'GLsizei' 轉換為 'float'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(276,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(279,31): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(288,24): warning C4305: '引數': 從 'double' 轉換為 'GLfloat'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(303,46): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(303,31): warning C4244: '引數': 將 'float' 轉換為 'GLsizei'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(319,31): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+D:\course\計圖學\hw3\hw3\hw3\main.cpp(319,24): warning C4244: '引數': 將 'float' 轉換為 'GLint'，由於類型不同，可能導致資料遺失
+  hw3.vcxproj -> D:\course\計圖學\hw3\hw3\Debug\hw3.exe
